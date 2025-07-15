@@ -8,12 +8,13 @@ import ProjectDetails, {
   PHP,
   Python,
   ResponsiveWeb,
+  BusinessIntelligence,
 } from "./imports";
 import "./Projects.scss";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
-  const certificates = [CSScertificate, FCC, ResponsiveWeb, Java, PHP, Python];
+  const certificates = [CSScertificate, FCC, ResponsiveWeb, Java, PHP, Python, BusinessIntelligence];
 
   return (
     <section
@@ -40,7 +41,7 @@ const Projects = () => {
           <ExperienceWithIcons />
         </div>
 
-       {/*
+       {
   <div className="app__projects-container_certificate">
     <h2>Certificates</h2>
     <div className="app__projects-container_certificate-cert">
@@ -49,7 +50,7 @@ const Projects = () => {
       ))}
     </div>
   </div>
-*/}
+}
 
       </div>
     </section>
