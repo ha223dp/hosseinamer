@@ -16,6 +16,8 @@ import nordicwellness from "../../assets/images/projects/nordicwellness.png";
 import visbyadventure from "../../assets/images/projects/visbyadventurepic.png";
 import matsida from "../../assets/images/projects/matsida.png";
 import gamingmedia from "../../assets/images/projects/gamingmedia.png";
+import boardgamesite from "../../assets/images/projects/boardgamesite.png";
+import salong from "../../assets/images/projects/salong.png";
 
 // CERTICIFICATES
 import CSScertificate from "../../assets/images/certificate/CSS.jpg";
@@ -102,6 +104,19 @@ const ProjectDetails = [
     text: "A gaming media application built to deliver content seamlessly. Developed using Kotlin and Android Studio, combining all features into a cohesive mobile experience.",
     site: null,
     code: "https://github.com/ha223dp/myfirstgamingapplicaion",
+  },
+   {
+    image: boardgamesite,
+    title: "Board game recommendation site",
+    text: "A board game recommendation site that has a chatbot to help you decide what boardgame that best suits you.",
+    site: "https://boardgamewebsite.vercel.app/",
+    code: "https://github.com/ha223dp/newboardgamewebsite",
+  },{
+    image: salong,
+    title: "Salong victoria",
+    text: "A simple salong site I made for a client with their preferences and other choices. And making sure an google map is included.",
+    site: "https://salongvictoria.vercel.app/",
+    code: "https://github.com/ha223dp/barbershopsite",
   },
 
 ];

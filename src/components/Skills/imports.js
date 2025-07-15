@@ -35,6 +35,8 @@ import jira from "../../assets/images/skills/jira.png";
 import jupyter from "../../assets/images/skills/jupyter.png";
 import anacondapic from "../../assets/images/skills/anacondapic.png";
 import node from "../../assets/images/skills/node.png";
+import AWS from"../../assets/images/skills/aws.png";
+import Linux from"../../assets/images/skills/linux.png";
 
 
 const skills = [
@@ -164,6 +166,19 @@ const skills = [
     text: "Node Js",
   },
  
+   {
+    image: AWS,
+    text: "Aws",
+  },
+   {
+    image: Windowslogo,
+    text: "Windows",
+  },
+  {
+    image: Linux,
+    text: "Linux",
+  },
+
 ];
 
 export default skills;

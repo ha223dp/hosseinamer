@@ -41,7 +41,6 @@ const Projects = () => {
         </div>
 
        {/*
-  🏅 Keep this if you still want certificates to be shown
   <div className="app__projects-container_certificate">
     <h2>Certificates</h2>
     <div className="app__projects-container_certificate-cert">
