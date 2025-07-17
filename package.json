@@ -13,6 +13,7 @@
     "@emotion/styled": "^11.10.0",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.9.3",
+    "@splinetool/react-spline": "^4.1.0",
     "aos": "^3.0.0-beta.6",
     "framer-motion": "^12.7.4",
     "gsap": "^3.10.4",
