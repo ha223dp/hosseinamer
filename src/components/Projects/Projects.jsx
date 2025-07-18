@@ -10,12 +10,13 @@ import ProjectDetails, {
   ResponsiveWeb,
   BusinessIntelligence, 
   Linuxessentials,
+  dataanalytic,
 } from "./imports";
 import "./Projects.scss";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
-  const certificates = [CSScertificate, FCC, ResponsiveWeb, Java, PHP, Python, BusinessIntelligence, Linuxessentials];
+  const certificates = [CSScertificate, FCC, ResponsiveWeb, Java, PHP, Python, BusinessIntelligence, Linuxessentials, dataanalytic];
 
   return (
     <section

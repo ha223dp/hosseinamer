@@ -32,9 +32,10 @@ import PGD from "../../assets/images/projects/pgd.jpg";
 import Weatheria from "../../assets/images/projects/weatheria.jpg";
 import BusinessIntelligence from "../../assets/images/certificate/bipic.png";
 import Linuxessentials from "../../assets/images/certificate/linuxessentials.png";
+import dataanalytic from "../../assets/images/certificate/dataanalytic.png";
 
 
-export { CSScertificate, FCC, Java, PHP, Python, ResponsiveWeb, BusinessIntelligence , Linuxessentials};
+export { CSScertificate, FCC, Java, PHP, Python, ResponsiveWeb, BusinessIntelligence , Linuxessentials, dataanalytic};
 
 const ProjectDetails = [
   {
