@@ -43,7 +43,7 @@ Hello! My name is Hossein, and I am a Software Engineer with a background in Inf
 I have built a strong foundation in programming languages such as Java, C#, and Python, as well as core web technologies like HTML, CSS, and JavaScript.
 
 I have worked with modern front-end tools and frameworks including React, SASS, and Bootstrap, and I enjoy bringing dynamic, responsive, and user-friendly
-interfaces to life. And also working back-end tools like spring batch, docker. At the same time, I also love diving into the back-end and working across
+interfaces to life. And also working back-end tools like Spring Batch and Docker. At the same time, I also love diving into the back-end and working across
 the full stack whenever I get the chance.
 
 I have had hands-on experience working with agile methodologies, and it turned out to be a great fit,  I thrive in collaborative, 
