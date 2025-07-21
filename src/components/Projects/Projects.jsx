@@ -2,21 +2,18 @@ import React from "react";
 import CertificateCard from "./CertificateCard";
 import ExperienceWithIcons from "./Experience";
 import ProjectDetails, {
-  CSScertificate,
-  FCC,
-  Java,
-  PHP,
-  Python,
-  ResponsiveWeb,
+  
   BusinessIntelligence, 
   Linuxessentials,
   dataanalytic,
+  awscert,
+  devopscer,
 } from "./imports";
 import "./Projects.scss";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
-  const certificates = [CSScertificate, FCC, ResponsiveWeb, Java, PHP, Python, BusinessIntelligence, Linuxessentials, dataanalytic];
+  const certificates = [BusinessIntelligence, Linuxessentials, dataanalytic, awscert, devopscer];
 
   return (
     <section

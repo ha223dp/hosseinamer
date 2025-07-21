@@ -33,9 +33,11 @@ import Weatheria from "../../assets/images/projects/weatheria.jpg";
 import BusinessIntelligence from "../../assets/images/certificate/bipic.png";
 import Linuxessentials from "../../assets/images/certificate/linuxessentials.png";
 import dataanalytic from "../../assets/images/certificate/dataanalytic.png";
+import awscert from "../../assets/images/certificate/awscert.png";
+import devopscer from "../../assets/images/certificate/devopscer.png";
 
 
-export { CSScertificate, FCC, Java, PHP, Python, ResponsiveWeb, BusinessIntelligence , Linuxessentials, dataanalytic};
+export {BusinessIntelligence , Linuxessentials, dataanalytic, awscert, devopscer};
 
 const ProjectDetails = [
   {
