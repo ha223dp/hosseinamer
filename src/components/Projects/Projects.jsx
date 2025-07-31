@@ -9,12 +9,14 @@ import ProjectDetails, {
   awscert,
   devopscer,
   udemy,
+  googlem,
+
 } from "./imports";
 import "./Projects.scss";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
-  const certificates = [BusinessIntelligence, Linuxessentials, dataanalytic, awscert, devopscer, udemy];
+  const certificates = [BusinessIntelligence, Linuxessentials, dataanalytic, awscert, devopscer, udemy,googlem];
 
   return (
     <section
