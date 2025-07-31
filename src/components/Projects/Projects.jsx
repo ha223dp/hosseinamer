@@ -8,12 +8,13 @@ import ProjectDetails, {
   dataanalytic,
   awscert,
   devopscer,
+  udemy,
 } from "./imports";
 import "./Projects.scss";
 import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
-  const certificates = [BusinessIntelligence, Linuxessentials, dataanalytic, awscert, devopscer];
+  const certificates = [BusinessIntelligence, Linuxessentials, dataanalytic, awscert, devopscer, udemy];
 
   return (
     <section

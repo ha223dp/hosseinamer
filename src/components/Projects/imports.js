@@ -36,9 +36,11 @@ import Linuxessentials from "../../assets/images/certificate/linuxessentials.png
 import dataanalytic from "../../assets/images/certificate/dataanalytic.png";
 import awscert from "../../assets/images/certificate/awscert.png";
 import devopscer from "../../assets/images/certificate/devopscer.png";
+import udemy from "../../assets/images/certificate/udemyfullstack.jpg";
 
 
-export {BusinessIntelligence , Linuxessentials, dataanalytic, awscert, devopscer};
+
+export {BusinessIntelligence , Linuxessentials, dataanalytic, awscert, devopscer, udemy};
 
 const ProjectDetails = [
   {
