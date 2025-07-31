@@ -37,6 +37,8 @@ import anacondapic from "../../assets/images/skills/anacondapic.png";
 import node from "../../assets/images/skills/node.png";
 import AWS from"../../assets/images/skills/aws.png";
 import Linux from"../../assets/images/skills/linux.png";
+import Postman from"../../assets/images/skills/postman.svg";
+
 
 
 const skills = [
@@ -178,7 +180,15 @@ const skills = [
     image: Linux,
     text: "Linux",
   },
-
+   {
+    image: Postman,
+    text: "Postman",
+  },
+   {
+    image: jupyter,
+    text: "jupyter",
+  },
+  
 ];
 
 export default skills;
