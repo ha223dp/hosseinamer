@@ -63,7 +63,7 @@ const ProjectDetails = [
   {
     image: nordicwellness,
     title: "Nordicwellness mockup",
-    text: "A mockup site of Nordic wellness with modern design implements with the help of Next.js, Typescript, and React.Js. While using stylish visual design",
+    text: "A mockup site of Nordic wellness with modern design implements with the help of Next.js, Typescript, and also React.Js. While using stylish visual design",
     site: "https://itadproject-ym87.vercel.app/",
     code: "https://github.com/ha223dp/itadproject",
   },
