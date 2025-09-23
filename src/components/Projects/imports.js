@@ -121,12 +121,6 @@ const ProjectDetails = [
     text: "A board game recommendation site that has a Ai chatbot to help you decide what boardgame that best suits you.",
     site: "https://boardgamewebsite.vercel.app/",
     code: "https://github.com/ha223dp/newboardgamewebsite",
-  },{
-    image: salong,
-    title: "Salong victoria",
-    text: "A simple salong site I made for a client with their preferences and other choices. And making sure an google map is included.",
-    site: "https://salongvictoria.vercel.app/",
-    code: "https://github.com/ha223dp/barbershopsite",
   },
   {
     image: postman,
