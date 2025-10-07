@@ -10,7 +10,8 @@ const experiences = [
     details: [
       "Built custom, user-centric websites and digital solutions through an iterative, problem-solving approach.",
       "Delivered responsive, scalable, and visually compelling web experiences by combining UI/UX design with full-stack development.",
-      "Managed projects end-to-end with a focus on collaboration, continuous improvement, and exceeding client expectations."
+      "Managed projects end-to-end with a focus on collaboration, continuous improvement, and exceeding client expectations.",
+      "While making websites with databases for people and organisations"
     ]
   },
 
