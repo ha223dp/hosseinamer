@@ -8,6 +8,7 @@ import Resumeicon from "../../assets/images/resumeicon.png";
 import Resume from "../../assets/images/resume.pdf";
 
 
+
 import "./Contact.scss";
 const Contact = () => {
   return (
