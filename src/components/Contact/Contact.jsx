@@ -5,7 +5,9 @@ import LinkedIn from "../../assets/images/socials/linkedin.png";
 import MailIcon from "../../assets/images/mailIcon.png";
 import Github from "../../assets/images/github.png";
 import Resumeicon from "../../assets/images/resumeicon.png";
-import Resume from "../../assets/images/resume.pdf";
+//import Resume from "../../assets/images/resume.pdf";
+import Resume from "../../assets/images/hr.pdf";
+
 
 
 
