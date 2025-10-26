@@ -36,7 +36,7 @@ const experiences = [
     location: "Uppsala University",
     date: "Aug 2024 – Jan 2025",
     details: [
-      "Implemented Agile methodology to improve project flexibility and client satisfaction.",
+      "Implemented a Agile methodology to improve project flexibility and client satisfaction.",
       "Coordinated over 30 international students, reducing project deadlines by 20% and increasing productivity by 25%.",
       "Facilitated communication on the IPO system to ensure iterative updates and better research outcomes."
     ]

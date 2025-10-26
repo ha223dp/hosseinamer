@@ -15,7 +15,7 @@
     "@mui/material": "^5.9.3",
     "@splinetool/react-spline": "^4.1.0",
     "aos": "^3.0.0-beta.6",
-    "framer-motion": "^12.7.4",
+    "framer-motion": "^12.23.24",
     "gsap": "^3.10.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
