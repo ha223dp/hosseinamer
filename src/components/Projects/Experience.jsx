@@ -8,7 +8,7 @@ const experiences = [
     location: "Freelance, Uppsala",
     date: "Aug 2024 – Aug 2025",
     details: [
-      "I have built custom, user-centric websites and digital solutions through an iterative, problem-solving approach.",
+      "I have built many custom, user-centric websites and digital solutions through an iterative, problem-solving approach.",
       "Delivered responsive, scalable, and visually compelling web experiences by combining UI/UX design with full-stack development.",
       "Managed projects end-to-end with a focus on collaboration, continuous improvement, and exceeding client expectations.",
       "While making websites with databases for people and organisations"
@@ -36,7 +36,7 @@ const experiences = [
     location: "Uppsala University",
     date: "Aug 2024 – Jan 2025",
     details: [
-      "Implemented a Agile methodology to improve project flexibility and client satisfaction.",
+      "Implemented an Agile methodology to improve project flexibility and client satisfaction.",
       "Coordinated over 30 international students, reducing project deadlines by 20% and increasing productivity by 25%.",
       "Facilitated communication on the IPO system to ensure iterative updates and better research outcomes."
     ]
