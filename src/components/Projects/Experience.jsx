@@ -38,7 +38,7 @@ const experiences = [
     details: [
       "Implemented an Agile methodology to improve project flexibility and client satisfaction.",
       "Coordinated over 30 international students, reducing project deadlines by 20% and increasing productivity by 25%.",
-      "Facilitated communication on the IPO system to ensure iterative updates and better research outcomes."
+      "Facilitated the communication on the IPO system to ensure iterative updates and better research outcomes."
     ]
   },
   {
