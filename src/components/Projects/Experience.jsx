@@ -47,7 +47,7 @@ const experiences = [
     location: "Skatteverket, Visby",
     date: "Mar 2024 – June 2024",
     details: [
-      "Improved data transfer productivity by 20% using ETL processes with MySQL and Spring Batch.",
+      "Improved an data transfer productivity by 20% using ETL processes with MySQL and Spring Batch.",
       "Led cross-functional collaboration to implement innovative solutions, cutting project time by 20%.",
       "Reduced operational workload by 20% through optimized cloud resource use with Docker and RabbitMq."
     ]
