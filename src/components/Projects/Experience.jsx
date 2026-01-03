@@ -36,7 +36,7 @@ const experiences = [
     location: "Uppsala University",
     date: "Aug 2024 – Jan 2025",
     details: [
-      "Implemented an Agile methodology to improve project flexibility and client satisfaction.",
+      "Implemented an Agile methodology to further improve project flexibility and client satisfaction.",
       "Coordinated over 30 international students, reducing project deadlines by 20% and increasing productivity by 25%.",
       "Facilitated the communication on the IPO system to ensure iterative updates and better research outcomes."
     ]
@@ -49,7 +49,7 @@ const experiences = [
     details: [
       "Improved an data transfer productivity by 20% using ETL processes with MySQL and Spring Batch.",
       "I've led cross-functional collaboration to implement innovative solutions, cutting project time by 20%.",
-      "Reduced the operational workload by 20% through optimized cloud resource use with Docker and RabbitMq."
+      "Reduced the operational workload by 20% through optimized cloud resource use with Docker and even RabbitMq."
     ]
   },
   {
