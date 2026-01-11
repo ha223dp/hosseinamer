@@ -43,7 +43,7 @@ const experiences = [
   },
   {
     icon: "📊",
-    title: "Data Handler",
+    title: "Data enginner",
     location: "Skatteverket, Visby",
     date: "Mar 2024 – June 2024",
     details: [
