@@ -19,6 +19,7 @@ import gamingmedia from "../../assets/images/projects/gamingmedia.png";
 import boardgamesite from "../../assets/images/projects/boardgamesite.png";
 import salong from "../../assets/images/projects/salong.png";
 import postman from "../../assets/images/projects/postman.jpg";
+import website1 from "../../assets/images/projects/matsida1.png";
 
 // CERTICIFICATES
 import CSScertificate from "../../assets/images/certificate/CSS.jpg";
@@ -130,9 +131,9 @@ const ProjectDetails = [
     code: "https://github.com/ha223dp/newspringbootapplication",
   },
   {
-    image: postman,
+    image: website1,
     title: "Almost done resturant website",
-    text: "A resturant website with menu display built with spring boot and maps integration",
+    text: "A resturant website with menu display built with javascript, css, html, with maps integration",
     site: "https://resturang-kvs2.vercel.app/#",
     code: "https://github.com/ha223dp/Resturang",
   },
