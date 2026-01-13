@@ -134,7 +134,7 @@ const ProjectDetails = [
     title: "Almost done resturant website",
     text: "A resturant website with menu display built with spring boot and maps integration",
     site: "https://resturang-kvs2.vercel.app/#",
-    code: "https://github.com/ha223dp/newspringbootapplication",
+    code: "https://github.com/ha223dp/Resturang",
   },
   
 
