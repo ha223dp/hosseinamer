@@ -132,7 +132,7 @@ const ProjectDetails = [
   },
   {
     image: website1,
-    title: "Almost done resturant website",
+    title: "Resturant website through freelance",
     text: "A resturant website with menu display built with javascript, css, html, with maps integration",
     site: "https://resturang-kvs2.vercel.app/#",
     code: "https://github.com/ha223dp/Resturang",
